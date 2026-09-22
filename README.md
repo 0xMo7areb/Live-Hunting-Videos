@@ -1,19 +1,6 @@
 <div align="center">
 
-```
-  ▄▄       ██▓ ██▒   █▓▓█████  ██░ ██      ██░ ██  █    ██  ███▄    █ ▄▄▄█████▓ ██▓ ███▄    █   ▄████  ██████
- ▒████▄    ▓██▒▓██░   █▒▓█   ▀ ▓██░ ██▒   ▓██░ ██▒ ██  ▓██▒ ██ ▀█   █ ▓  ██▒ ▓▒▓██▒ ██ ▀█   █  ██▒ ▀█▒▒██    ▒
- ▒██  ▀█▄  ▒██▒ ▓██  █▒░▒███   ▒██▀▀██░   ▒██▀▀██░▓██  ▒██░▓██  ▀█ ██▒▒ ▓██░ ▒░▒██▒▓██  ▀█ ██▒▒██░▄▄▄░ ▓██▄
- ░██▄▄▄▄██ ░██░  ▒██ █░░▒▓█  ▄ ░▓█ ░██    ░▓█ ░██ ▓▓█  ░██░▓██▒  ▐▌██▒░ ▓██▓ ░ ░██░▓██▒  ▐▌██▒░▓█  ██▓  ▒   ██▒
-  ▓█   ▓██▒░██░   ▒▀█░  ░▒████▒░▓█▒░██▓   ░▓█▒░██▓▒▒█████▓ ▒██░   ▓██░  ▒██▒ ░ ░██░▒██░   ▓██░░▒▓███▀▒▒██████▒▒
-  ▒▒   ▓▒█░░▓     ░ ▐░  ░░ ▒░ ░ ▒ ░░▒░▒    ▒ ░░▒░▒░▒▓▒ ▒ ▒ ░ ▒░   ▒ ▒   ▒ ░░   ░▓  ░ ▒░   ▒ ▒  ░▒   ▒ ▒ ▒▓▒ ▒ ░
-   ▒   ▒▒ ░ ▒ ░   ░ ░░   ░ ░  ░ ▒ ░▒░ ░    ▒ ░▒░ ░░░▒░ ░ ░ ░ ░░   ░ ▒░    ░     ▒ ░░ ░░   ░ ▒░  ░   ▒ ░ ░▒  ░ ░
-   ░   ▒    ▒ ░     ░░     ░    ░  ░░ ░    ░  ░░ ░ ░░░ ░ ░    ░   ░ ░   ░       ▒ ░   ░   ░ ░   ░ ░  ░  ░  ░
-       ░  ░ ░        ░     ░  ░ ░  ░  ░    ░  ░  ░   ░             ░           ░           ░       ░       ░
-             ░                ░      ░                                      ░                             ░
-```
-
-# 🎯 LIVE HUNTING VIDEOS
+# 🥷 LIVE HUNTING VIDEOS
 
 **Real bug bounty & penetration testing sessions — one click away.**
 
@@ -23,10 +10,9 @@ Grab your scope, pick your hunter, and watch how the kill-chain actually plays o
 </div>
 
 <p align="center">
-  <a href="#arabic--arabic-hunters"><img src="https://img.shields.io/badge/🇪🇬-Arabic_11_videos-red?style=for-the-badge&labelColor=151515&color=A61B1B"/></a>
-  <a href="#english--english-hunters"><img src="https://img.shields.io/badge/🇬🇧-English_8_videos-blue?style=for-the-badge&labelColor=151515&color=0B5394"/></a>
-  <img src="https://img.shields.io/badge/status-ACTIVE-brightgreen?style=for-the-badge&labelColor=151515"/>
-  <a href="#-contribute"><img src="https://img.shields.io/badge/add-a_hunter-purple?style=for-the-badge&labelColor=151515&color=6A0DAD"/></a>
+  <a href="#arabic--arabic-hunters"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC-Arabic%20videos-red?style=for-the-badge&labelColor=151515&color=A61B1B"/></a>
+  <a href="#english--english-hunters"><img src="https://img.shields.io/badge/%F0%9F%8C%8D-English%20videos-blue?style=for-the-badge&labelColor=151515&color=0B5394"/></a>
+  <a href="#-contact-me"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Contact%20me-purple?style=for-the-badge&labelColor=151515&color=6A0DAD"/></a>
 </p>
 
 ---
@@ -36,7 +22,7 @@ Grab your scope, pick your hunter, and watch how the kill-chain actually plays o
 | 🗺️ Guide                                            | 🧭 Go to |
 |-----------------------------------------------------|----------|
 | 🇪🇬 Arabic-speaking hunters (real-time hunts)        | [Jump →](#arabic--arabic-hunters) |
-| 🇬🇧 English-speaking hunters (classic sessions)      | [Jump →](#english--english-hunters) |
+| 🌍 English-speaking hunters (classic sessions)      | [Jump →](#english--english-hunters) |
 | 🛠 Structured data for automation                   | [videos.json](./videos.json) |
 
 ---
@@ -73,7 +59,7 @@ Grab your scope, pick your hunter, and watch how the kill-chain actually plays o
 
 ---
 
-## 🇬🇧 English — English Hunters
+## 🌍 English — English Hunters
 
 > **The veterans of the trade.** From live-time posts to uncut
 > methodology sessions — pure hunting energy, zero filler.
@@ -102,31 +88,24 @@ Grab your scope, pick your hunter, and watch how the kill-chain actually plays o
 
 ---
 
-## 🛠️ Machine-Readable Edition
+## 📬 Contact Me
 
-Prefer your hunts automated? The same collection is available as
-structured JSON — perfect for crawlers, scripts, and your `.bashrc` aliases.
+Found a live hunting session that deserves a spot here?
+Hit me up on X and I'll add it to the list ASAP. 🚀
 
-```bash
-curl -s https://raw.githubusercontent.com/0xMo7areb/Live-Hunting-Videos/main/videos.json | jq
-```
+<p align="center">
+  <a href="https://x.com/0xmo7areb"><img src="https://img.shields.io/badge/X-@0xmo7areb-black?style=for-the-badge&labelColor=151515&logo=x"/></a>
+</p>
 
-## 🤝 Contribute
-
-Found a dope live hunting session missing from the list?
-Add it in **one PR** — keep it to the same format and you're golden:
+Want to keep the same easy format? Just send:
 
 ```md
 https://youtube.com/@YourHandle [Your Channel]
 ```
 
-```
-██  ██  ██████  ██████   ██████      ██████  ██  ██████  ██████  ██
-██  ██ ██      ██    ██ ██          ██    ██ ██ ██      ██    ██ ██
-██  ██ ██      ████████ ██          ██    ██ ██ ██      ██████  ██
-██  ██ ██      ██    ██ ██          ██    ██ ██ ██      ██      ██
- ████   ██████ ██    ██  ██████     ██████  ██  ██████  ██      ██████
-```
+<p align="center">
+  <a href="https://github.com/0xMo7areb"><img src="https://img.shields.io/badge/⚡-0xMo7areb-white?style=for-the-badge&labelColor=151515"/></a>
+</p>
 
 <p align="center">
   <b>Hunt like a pro, rest like a hacker.</b> 🪂<br>
