@@ -91,10 +91,11 @@ Grab your scope, pick your hunter, and watch how the kill-chain actually plays o
 ## 📬 Contact Me
 
 Found a live hunting session that deserves a spot here?
-Hit me up on X and I'll add it to the list ASAP. 🚀
+Hit me up on X or Telegram and I'll add it to the list ASAP. 🚀
 
 <p align="center">
   <a href="https://x.com/0xmo7areb"><img src="https://img.shields.io/badge/X-@0xmo7areb-black?style=for-the-badge&labelColor=151515&logo=x"/></a>
+  <a href="https://t.me/mo7arebsec"><img src="https://img.shields.io/badge/Telegram-@mo7arebsec-blue?style=for-the-badge&labelColor=151515&logo=telegram&color=0088CC"/></a>
 </p>
 
 <p align="center">
