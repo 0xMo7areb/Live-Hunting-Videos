@@ -1,0 +1,41 @@
+{
+  "repo": "Live-Hunting-Videos",
+  "curated_by": "@0xMo7areb",
+  "description": "Real bug bounty & penetration testing live hunting videos",
+  "updated_at": "2026-09-22",
+  "sections": {
+    "arabic": {
+      "language": "ar",
+      "flag": "🇪🇬",
+      "title": "Arabic Hunters",
+      "videos": [
+        { "channel": "ForBugHunter",       "url": "https://www.youtube.com/@ForBugHunters" },
+        { "channel": "Ahmed Najeh",        "url": "https://www.youtube.com/@LiveBughunting" },
+        { "channel": "Fady Osman",         "url": "https://youtu.be/1j1nUGyOq5Y?si=led_ogX3u38ynh6-" },
+        { "channel": "Ebrahem Hegazy",     "url": "https://youtu.be/USyJjpjXEao?si=ualUaaTU8hbOzk-K" },
+        { "channel": "Mohamed AbuMuslim",  "url": "https://www.youtube.com/watch?v=p_KQc3PPm2o&list=PLVYhZM0igXwbcEwpKImfKEunhxGo7x4f8&index=2" },
+        { "channel": "rood",               "url": "https://www.youtube.com/@0xrood/videos" },
+        { "channel": "Hossam Shady",       "url": "https://www.youtube.com/@RedNexusYT" },
+        { "channel": "0xM5awy",            "url": "https://youtu.be/wCLbLfN3ZS4?si=vOFHa-mWU7iZE_h5" },
+        { "channel": "Karem Elsqary",      "url": "https://www.youtube.com/@KaremElsqary/streams" },
+        { "channel": "Hasssan Muhammed",   "url": "https://www.youtube.com/@maybesokkar" },
+        { "channel": "Ahmed Ali",          "url": "https://www.youtube.com/@Ahmex-Ali/videos" }
+      ]
+    },
+    "english": {
+      "language": "en",
+      "flag": "🇬🇧",
+      "title": "English Hunters",
+      "videos": [
+        { "channel": "rs0n",                    "url": "https://www.youtube.com/@rs0n_live/featured" },
+        { "channel": "NahamSec",                "url": "https://www.youtube.com/@NahamSec" },
+        { "channel": "The Cyber Mentor",        "url": "https://youtu.be/zO6NdOjgwY0?si=xpeKwg_6MkpnGPea" },
+        { "channel": "Nonsense-Shin",           "url": "https://www.youtube.com/watch?v=ijVqbNanOe0" },
+        { "channel": "Fusion Security",         "url": "https://www.youtube.com/watch?v=Kwvdm9jozFU" },
+        { "channel": "Json Hadix Methodologies","url": "https://www.youtube.com/watch?v=gIz_yn0Uvb8&list=PLh--xwfc2oZoYOev46lNMSVniNyr4OEHO" },
+        { "channel": "Logan Sec",               "url": "https://www.youtube.com/@Logan-sec" },
+        { "channel": "InsiderPhD",              "url": "https://www.youtube.com/watch?v=RobCqW2KwGs&list=PLbyncTkpno5FZQ3ZgpHj1BdQ7XHwfvO1w" }
+      ]
+    }
+  }
+}
