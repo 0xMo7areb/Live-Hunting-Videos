@@ -10,8 +10,8 @@ Grab your scope, pick your hunter, and watch how the kill-chain actually plays o
 </div>
 
 <p align="center">
-  <a href="#arabic--arabic-hunters"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC-Arabic%20videos-red?style=for-the-badge&labelColor=151515&color=A61B1B"/></a>
-  <a href="#english--english-hunters"><img src="https://img.shields.io/badge/%F0%9F%8C%8D-English%20videos-blue?style=for-the-badge&labelColor=151515&color=0B5394"/></a>
+  <a href="#-arabic--arab-hunters"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC-Arabic%20videos-red?style=for-the-badge&labelColor=151515&color=A61B1B"/></a>
+  <a href="#-english--english-hunters"><img src="https://img.shields.io/badge/%F0%9F%8C%8D-English%20videos-blue?style=for-the-badge&labelColor=151515&color=0B5394"/></a>
   <a href="#-contact-me"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Contact%20me-purple?style=for-the-badge&labelColor=151515&color=6A0DAD"/></a>
 </p>
 
@@ -21,8 +21,8 @@ Grab your scope, pick your hunter, and watch how the kill-chain actually plays o
 
 | 🗺️ Guide                                            | 🧭 Go to |
 |-----------------------------------------------------|----------|
-| 🇪🇬 Arabic-speaking hunters (real-time hunts)        | [Jump →](#arabic--arabic-hunters) |
-| 🌍 English-speaking hunters (classic sessions)      | [Jump →](#english--english-hunters) |
+| 🇪🇬 Arabic-speaking hunters (real-time hunts)        | [Jump →](#-arabic--arab-hunters) |
+| 🌍 English-speaking hunters (classic sessions)      | [Jump →](#-english--english-hunters) |
 | 🛠 Structured data for automation                   | [videos.json](./videos.json) |
 
 ---
@@ -96,12 +96,6 @@ Hit me up on X and I'll add it to the list ASAP. 🚀
 <p align="center">
   <a href="https://x.com/0xmo7areb"><img src="https://img.shields.io/badge/X-@0xmo7areb-black?style=for-the-badge&labelColor=151515&logo=x"/></a>
 </p>
-
-Want to keep the same easy format? Just send:
-
-```md
-https://youtube.com/@YourHandle [Your Channel]
-```
 
 <p align="center">
   <a href="https://github.com/0xMo7areb"><img src="https://img.shields.io/badge/⚡-0xMo7areb-white?style=for-the-badge&labelColor=151515"/></a>
