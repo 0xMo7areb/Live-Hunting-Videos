@@ -103,5 +103,5 @@ Hit me up on X and I'll add it to the list ASAP. 🚀
 
 <p align="center">
   <b>Hunt like a pro, rest like a hacker.</b> 🪂<br>
-  <sub>curated with ♥ & caffeine by <a href="https://github.com/0xMo7areb"><b>@0xMo7areb</b></a></sub>
+  <sub>curated with ♥ & caffeine by <a href="https://0xmo7areb.vercel.app/"><b>@0xmo7areb</b></a></sub>
 </p>
